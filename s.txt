@@ -1,0 +1,6 @@
+<div>
+            <h1 style="color: red;">Dream Big</h1>
+            <h2>Become a Web Developer</h2>
+            <p>I have learned HTML,CSS and learning SASS nowadays afterward i will learn Bootstrap Framework,Basically I'm going to use MERN stack to Become a Full-Stack Web Developer.this might take some more time but I'm a hard working Student and also a good learner So i think i will become a Full-Stack Web Developer Within 3 months . INSHA'ALLAH</p>
+            <a class="button-link" target="_blank" href="https://rafff-byte.github.io/developer-portfolio/" style="color: white; font-weight: 400;">Download Resume</a>
+        </div>
